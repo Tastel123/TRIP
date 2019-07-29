@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import './style/reset.css'
 export default {
   name: 'App'
 }
